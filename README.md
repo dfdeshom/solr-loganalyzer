@@ -7,6 +7,7 @@ Note that you need to enable logging at the INFO level for this to
 work and you need to have cores enabled. You also need python2.7 installed.
 
 Usage:
+
     # reading from stdin
     head -n <NUMBER OF LINES TO ANALYZE> solrlog| ./loganalyzer.py
 
