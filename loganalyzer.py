@@ -47,7 +47,7 @@ class CoreCounter(object):
         print self._pprint_topn(10,self.endpoints,"Top Endpoints for %s" % self.corename)
 
         # search urls
-        print self._pprint_topn(10,self.urls,"Top Searh URLs for %s" % self.corename)
+        print self._pprint_topn(10,self.urls,"Top Search URLs for %s" % self.corename)
 
         # slowest calls
         print self._pprint_topn(10,self.qtimes,"Slowest Searches for %s" % self.corename)
