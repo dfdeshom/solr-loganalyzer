@@ -1,0 +1,7 @@
+INFO  - 2018-11-12 11:04:22.077; org.apache.solr.core.SolrCore; [core1] webapp=/solr4 path=/select params={sort=updateDate+DESC&indent=true&q=threadUrl:90d2e26b-6f99-3e5c-b64f-4344b1097d74&_=1542017062062&wt=json} hits=0 status=0 QTime=4
+INFO  - 2018-11-12 11:04:28.675; org.apache.solr.core.SolrCore; [core1] webapp=/solr4 path=/select params={sort=updateDate+DESC&indent=true&q=threadGuid:90d2e26b-6f99-3e5c-b64f-4344b1097d74&_=1542017068668&wt=json} hits=8 status=0 QTime=2
+INFO  - 2018-11-09 13:46:34.224; org.apache.solr.core.SolrCore; [core1] webapp=/solr4 path=/get params={ids=228492f2-6137-3cae-86c1-becba7b8eb4a&wt=javabin&version=2} status=0 QTime=1 
+INFO  - 2018-11-09 13:46:57.954; org.apache.solr.core.SolrCore; [core1] webapp=/solr4 path=/get params={ids=b1aa9c59-d07e-3efa-ba56-352bdf85ca68&wt=javabin&version=2} status=0 QTime=15 
+INFO  - 2018-11-09 13:46:58.588; org.apache.solr.core.SolrCore; [core1] webapp=/solr4 path=/get params={ids=e64fca24-08c2-331e-be00-30e802a853f2&wt=javabin&version=2} status=0 QTime=1 
+INFO  - 2018-11-12 11:03:12.241; org.apache.solr.core.SolrCore; [core1] webapp=/solr4 path=/select params={sort=updateDate+DESC&indent=true&q=threadGuid:90d2e26b-6f99-3e5c-b64f-4344b1097d74&_=1542016992177&wt=json} hits=8 status=0 QTime=2
+INFO  - 2018-11-12 12:24:13.595; org.apache.solr.core.SolrCore; [core1] webapp=/solr4 path=/get params={ids=35b8f342-38da-3667-965f-0ef727396a05&ids=93f5a71e-5387-3653-be47-aa9dc27c3cf6&wt=javabin&version=2} status=0 QTime=1 
